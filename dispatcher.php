@@ -1,5 +1,5 @@
 <?php
-
+/** Change */
 if (!defined('PHP_VERSION_ID') || PHP_VERSION_ID < 50509) {
     die("concrete5 requires PHP 5.5.9+ to run.\nYou are running PHP " . PHP_VERSION . "\n");
 }
